@@ -14,7 +14,7 @@ ${i.free} ${prefix}donasi
 ${i.free} ${prefix}sourcecode
 
 *Coverter / Tools*
-${i.limit} ${prefix}sticker
+${i.free} ${prefix}sticker
 ${i.prem} ${prefix}swm
 ${i.prem} ${prefix}take
 ${i.limit} ${prefix}toimg
@@ -28,14 +28,14 @@ ${i.limit} ${prefix}foliokanan text
 ${i.limit} ${prefix}translate kodebahasa [reply pesan/text]
 
 *Downloader*
-${i.limit} ${prefix}ytmp4 url
-${i.limit} ${prefix}ytmp3 url
-${i.limit} ${prefix}igdl url
-${i.limit} ${prefix}fbdl url
-${i.limit} ${prefix}tiktok url
-${i.limit} ${prefix}yts query
-${i.limit} ${prefix}play query
-${i.limit} ${prefix}playmp4 query
+${i.free} ${prefix}ytmp4 url
+${i.free} ${prefix}ytmp3 url
+${i.free} ${prefix}igdl url
+${i.free} ${prefix}fbdl url
+${i.free} ${prefix}tiktok url
+${i.free} ${prefix}yts query
+${i.free} ${prefix}play query
+${i.free} ${prefix}playmp4 query
 
 *Stalker*
 ${i.limit} ${prefix}igstalk username
@@ -92,8 +92,8 @@ ${i.free} ${prefix}hobby
 ${i.free} ${prefix}rate
 ${i.free} ${prefix}cekbapak
 ${i.free} ${prefix}seberapagay
-${i.limit} ${prefix}truth
-${i.limit} ${prefix}dare
+${i.free} ${prefix}truth
+${i.free} ${prefix}dare
 
 *Group*
 ${i.free} ${prefix}afk
